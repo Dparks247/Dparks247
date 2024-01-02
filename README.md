@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dparks247
-- 👀 I’m interested in learning Python
+- 👀 I’m interested in learning Python and SQL
 - 🌱 I’m currently learning Cybersecurity and Data Analytics 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
